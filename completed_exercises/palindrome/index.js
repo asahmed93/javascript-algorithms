@@ -23,3 +23,5 @@ module.exports = palindrome;
 //
 //   return str === reversed;
 // }
+
+console.log("RESULT", palindrome('racecar'));
